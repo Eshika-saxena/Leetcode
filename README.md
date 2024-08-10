@@ -32,6 +32,7 @@ Approach:
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -45,4 +46,12 @@ Approach:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Eshika-saxena/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
