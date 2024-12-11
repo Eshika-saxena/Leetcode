@@ -23,6 +23,7 @@ Approach:
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0202-happy-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Eshika-saxena/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sorting
@@ -50,6 +51,7 @@ Approach:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0202-happy-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,4 +60,5 @@ Approach:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Eshika-saxena/Leetcode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
