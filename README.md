@@ -19,6 +19,7 @@ Approach:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Eshika-saxena/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Eshika-saxena/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Eshika-saxena/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -57,11 +58,13 @@ Approach:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +75,12 @@ Approach:
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Eshika-saxena/Leetcode/tree/master/0412-fizz-buzz) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
