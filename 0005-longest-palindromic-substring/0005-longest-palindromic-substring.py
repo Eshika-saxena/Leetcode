@@ -12,7 +12,7 @@ class Solution:
                 r+=1
             l,r=i,i+1
             while l>=0 and r<len(s) and s[l]==s[r]:
-                if r-l+1>maxlen:
+                if (r-l+1)>maxlen:
                     res=s[l:r+1]
                     maxlen=r-l+1
                 l-=1
