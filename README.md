@@ -21,6 +21,7 @@ Approach:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Eshika-saxena/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Eshika-saxena/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Eshika-saxena/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -51,6 +52,7 @@ Approach:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Eshika-saxena/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Eshika-saxena/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -62,6 +64,7 @@ Approach:
 | [0005-longest-palindromic-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +88,8 @@ Approach:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
