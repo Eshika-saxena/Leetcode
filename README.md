@@ -24,6 +24,7 @@ Approach:
 | [0287-find-the-duplicate-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Eshika-saxena/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1603-running-sum-of-1d-array](https://github.com/Eshika-saxena/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -123,4 +124,8 @@ Approach:
 | [0100-same-tree](https://github.com/Eshika-saxena/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eshika-saxena/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Eshika-saxena/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Eshika-saxena/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
