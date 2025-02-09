@@ -55,6 +55,7 @@ Approach:
 | [0412-fizz-buzz](https://github.com/Eshika-saxena/Leetcode/tree/master/0412-fizz-buzz) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Eshika-saxena/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -97,10 +98,12 @@ Approach:
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Eshika-saxena/Leetcode/tree/master/0412-fizz-buzz) |
+| [2470-removing-stars-from-a-string](https://github.com/Eshika-saxena/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
+| [2470-removing-stars-from-a-string](https://github.com/Eshika-saxena/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
