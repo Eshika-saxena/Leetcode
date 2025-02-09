@@ -53,6 +53,7 @@ Approach:
 | [0005-longest-palindromic-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Eshika-saxena/Leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Eshika-saxena/Leetcode/tree/master/0412-fizz-buzz) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Eshika-saxena/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Eshika-saxena/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -103,6 +104,7 @@ Approach:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Eshika-saxena/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Eshika-saxena/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
