@@ -22,6 +22,7 @@ Approach:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Eshika-saxena/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Eshika-saxena/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/Eshika-saxena/Leetcode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Eshika-saxena/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -35,6 +36,7 @@ Approach:
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Eshika-saxena/Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Eshika-saxena/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Eshika-saxena/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -43,6 +45,7 @@ Approach:
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Eshika-saxena/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Eshika-saxena/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Eshika-saxena/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -60,6 +63,7 @@ Approach:
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Eshika-saxena/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Eshika-saxena/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
@@ -73,6 +77,7 @@ Approach:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Eshika-saxena/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Eshika-saxena/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Eshika-saxena/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
