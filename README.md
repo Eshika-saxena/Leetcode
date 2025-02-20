@@ -23,6 +23,7 @@ Approach:
 | [0041-first-missing-positive](https://github.com/Eshika-saxena/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Eshika-saxena/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/Eshika-saxena/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Eshika-saxena/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Eshika-saxena/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -38,6 +39,7 @@ Approach:
 | [0041-first-missing-positive](https://github.com/Eshika-saxena/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Eshika-saxena/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Eshika-saxena/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Eshika-saxena/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Eshika-saxena/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -174,4 +176,8 @@ Approach:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Eshika-saxena/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Eshika-saxena/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
