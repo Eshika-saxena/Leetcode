@@ -38,6 +38,7 @@ Approach:
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Eshika-saxena/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Eshika-saxena/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Eshika-saxena/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0202-happy-number) |
@@ -57,6 +58,7 @@ Approach:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Eshika-saxena/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Eshika-saxena/Leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Eshika-saxena/Leetcode/tree/master/0412-fizz-buzz) |
@@ -183,5 +185,6 @@ Approach:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Eshika-saxena/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Eshika-saxena/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
