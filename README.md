@@ -50,6 +50,7 @@ Approach:
 | [0347-top-k-frequent-elements](https://github.com/Eshika-saxena/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Eshika-saxena/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshika-saxena/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Eshika-saxena/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Eshika-saxena/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Eshika-saxena/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/Eshika-saxena/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -61,6 +62,7 @@ Approach:
 | [0347-top-k-frequent-elements](https://github.com/Eshika-saxena/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Eshika-saxena/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshika-saxena/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Eshika-saxena/Leetcode/tree/master/0389-find-the-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Eshika-saxena/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Eshika-saxena/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -70,6 +72,7 @@ Approach:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eshika-saxena/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Eshika-saxena/Leetcode/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/Eshika-saxena/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Eshika-saxena/Leetcode/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Eshika-saxena/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Eshika-saxena/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -146,6 +149,7 @@ Approach:
 | [0136-single-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Eshika-saxena/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Eshika-saxena/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Eshika-saxena/Leetcode/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
 | ------- |
